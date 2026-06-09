@@ -1,0 +1,6 @@
+{
+  "name": "SMK Muhammadiyah Randublatung",
+  "description": "Website Resmi SMK Muhammadiyah Randublatung - Sekolah Menengah Kejuruan Modern dengan Sistem Manajemen Sekolah Terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
